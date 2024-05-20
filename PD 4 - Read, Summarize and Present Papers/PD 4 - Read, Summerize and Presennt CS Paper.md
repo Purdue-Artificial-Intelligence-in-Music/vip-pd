@@ -79,3 +79,11 @@ In this process, the Feynman learning method is very effective: try to teach you
 
 ## Conclusion
 By following these steps, you can effectively read, summarize, and present research papers. This will help you stay informed, contribute to your team's knowledge base, and foster meaningful discussions.
+
+## Exercises
+
+Find two research papers about computer music, computer vision, audio/speech processing, or machine learning from 1 conference of your choice. Some suggested conferences are CVPR, IEEE CAI, ICASSP, ICML, NeurIPS, ICMC, ISMIR, etc.
+
+Write a 1/2 page (single spaced) summary of each paper using the guidelines above, your key findings, and any reflections you may have on the paper. Also include a short summary on why your paper is important, both to the greater field and to this research team.
+
+You may be asked to present the paper you found in front of your teammates, but this is TBD.
