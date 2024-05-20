@@ -5,7 +5,7 @@ There are (eventually going to be) two types of modules in this assignment:
 - Selective modules (PD 6, 7): These modules are grouped into topics based on active research areas on this team. Most members should pick ONE selective to do and learn in-depth.
 Combined with the 3 required VIP modules, that makes 10 PD activities for each VIP student in a semester.
 
-Our current topics list is:
+Our current required topics list is:
 - PD 1: Intro to lab servers, GitHub, etc. - how to access lab servers, how to use Git and GitHub, how to use Conda, how to navigate a terminal, etc.
 - PD 2: Cool(er) stuff in Python - Python OOP, inheritance, polymorphism, concurrency, UnitTests, ABSL, and a bit of numpy/matplotlib
 - PD 3: Building a MIDI Synth in Python - basic principles of sound synthesis, PrettyMIDI and basics of MIDI, collaboration, engineering/design process, intro to research
