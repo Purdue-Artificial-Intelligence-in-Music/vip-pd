@@ -15,7 +15,7 @@ Here we go!
 
 In this section we will learn how to access the lab's servers.
 
-First, if you are not on campus, you will need to install the [Cisco AnyConnect VPN](https://it.purdue.edu/newsroom/2020/200316-webvpn.php) to access Purdue servers remotely. Once it is installed, you should login with your Purdue career account credentials to establish the connection. You will need to accept a 2FA Duo Mobile request for this.
+First, if you are not on the Purdue academic campus, you will need to install the [Cisco AnyConnect VPN](https://it.purdue.edu/newsroom/2020/200316-webvpn.php) to access Purdue servers remotely. Once it is installed, you should login with your Purdue career account credentials to establish the connection. You will need to accept a 2FA Duo Mobile request for this.
 
 Next, we will use the *ssh* command to establish a connection to the server. For this tutorial we will be using our lab server called *ee230lnx04.ecn.purdue.edu*. We have several other servers as well, but they are somewhat slower and should only be used if *ee230lnx04* is at capacity.
 
