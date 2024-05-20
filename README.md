@@ -12,7 +12,7 @@ Our current required topics list is:
 - PD 4: Research Communication - Reading research papers, Summarizing research papers, Presenting them to teammates
 - PD 5: Logic, Proofs, Dynamic Programming, Recursion - basically baby CS 381
 
-Our current selectives list is:
+Our current selectives list is (two PDs each):
 - Signal Processing: Convolution, DFT/FFT/STFT/all kinds of transforms, basic orthogonality proof and Fourier duality, etc.
 - Machine Learning: Build a machine learning model from scratch in PyTorch
 - Robotics: ???
