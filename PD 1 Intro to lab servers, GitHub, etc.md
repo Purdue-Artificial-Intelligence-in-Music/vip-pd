@@ -159,7 +159,7 @@ Finally, in this tutorial, we will be doing a quick overview of *conda*. *conda*
 We utilize a shared *conda* installation, in which environments are shared between users. This is to save disk space from installing packages many times, as well as to avoid disk space limitations from ECN on user account space.
 
 To activate our shared *conda* instance, run the following commands in your shell. You will need to run this every time you log in, or add it to your ``.bashrc`` (not recommended, yet).
-``
+
 ```
 export PATH=/home/ee230lnx04/a/shared-conda/bin:$PATH
 source /home/ee230lnx04/a/shared-conda/etc/profile.d/conda.sh
