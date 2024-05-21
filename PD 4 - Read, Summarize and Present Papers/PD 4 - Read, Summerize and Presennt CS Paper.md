@@ -89,3 +89,5 @@ Find two research papers about computer music, computer vision, audio/speech pro
 Write a 1/2 page (single spaced) summary of each paper using the guidelines above, your key findings, and any reflections you may have on the paper. Also include a short summary on why your paper is important, both to the greater field and to this research team.
 
 You may be asked to present the paper you found in front of your teammates, but this is TBD.
+
+Include your summaries and the paper PDFs in your submission.
