@@ -1,4 +1,8 @@
 
+# PD 1: Intro to Lab Servers, GitHub, etc.
+
+Written by Tim Nadolsky
+
 ## Introduction
 
 Hello! This assignment is intended to teach you how to use GitHub and the lab servers. After completing this assignment you should know how to:

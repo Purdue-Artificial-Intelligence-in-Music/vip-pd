@@ -1,5 +1,7 @@
 # Reading Research Papers
 
+Written by Haichang Li, exercises written by Tim Nadolsky
+
 ## Introduction
 In this document, we will discuss the process of reading, summarizing, and presenting research papers. This is a crucial skill for staying up-to-date with the latest developments in your field and effectively sharing knowledge with your teammates.
 
