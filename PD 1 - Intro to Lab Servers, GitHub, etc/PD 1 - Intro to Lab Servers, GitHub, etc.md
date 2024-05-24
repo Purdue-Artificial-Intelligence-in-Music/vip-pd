@@ -33,7 +33,7 @@ Thus, we can *ssh* into our account on *ee230lnx04* with the command:
 
 ``ssh <username>@ee230lnx04.ecn.purdue.edu``
 
-Your password is your old ``<pin>,push<X>`` password from the BoilerKey days (this may be a problem if you entered Purdue in Fall 2023 or later; Teams DM a leader for help). You will also need to 2FA with Duo Mobile to login.
+Your password is your old ``<pin>,push<X>`` password from the BoilerKey days (or ``<password>,push<X>`` if you entered Purdue in Fall 2023 or later). You will also need to 2FA with Duo Mobile to login.
 
 If your account does not exist or you can't login for whatever reason, **stop!** Teams DM a lab leader for assistance here.
 
