@@ -30,10 +30,10 @@ class Diagonal_Pattern_Generator(Image_Generator):
 
 class Gradient_Generator(Image_Generator):
     '''
-    Diagonal_Pattern_Generator is a class that generates black to white gradients in random directions.
+    Gradient_Generator is a class that generates black to white gradients in random directions.
     '''
     # TODO: Write an __init__ method that initializes the superclass object.
     # TODO: Also write a generate_image method that generates a gradient from black to white in a specified angle.
     # TODO: Make the angle randomly vary with the seed.
-    # TODO: Also draw a line on top of the image in all gray (0.5) that is parallel to the gradient and passing through the middle of the image.
+    # TODO: Also draw a line on the image in all gray (0.5) that is parallel to the gradient and passing through the middle of the image.
     pass
