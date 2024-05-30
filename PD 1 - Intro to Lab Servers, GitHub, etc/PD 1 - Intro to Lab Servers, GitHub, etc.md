@@ -217,9 +217,10 @@ If some of this isn't clear, please go back and re-read/re-do some of the exerci
 
 ## Exercises (must submit these!)
 
-1. To prove you aren't doing this on your local Linux/Mac machine or on Colab, run the command ``nvidia-smi >> smi_output.txt``, which outputs information about installed Nvidia GPUs to a text file called ``smi_output.txt`` in your working directory. If you're on the right server, you should get a block of text containing the words "Quadro RTX 6000" somewhere in the middle when the file is opened with *nano* or *vim*.
-2. If ``~/envs/test_env`` isn't available as a *conda* environment, add it back using the steps above. Then, install ``matplotlib==3.7.5`` using *pip* and export the environment to a file called ``test_env_modified.yml``.
-3. Make a new branch in your GitHub repository above called ``new_feature_2`` based off ``main`` AFTER completing the tutorial exercise. Pull it to your machine, put both ``smi_output.txt`` and ``test_env_modified.yml`` in this branch. Then, ``git add``, ``git commit``, and ``git push`` the files. Finally. PR/merge the result. Make sure to write descriptive commit messages at every step! Do **NOT** delete the old branch(es) after merging with main.
+1. Make a new branch in your GitHub repository above called ``new_feature_2`` based off ``main`` AFTER completing the tutorial exercise. Also pull it to your machine.
+2. To prove you aren't doing this on your local Linux/Mac machine or on Colab, run the command ``nvidia-smi >> smi_output.txt``, which outputs information about installed Nvidia GPUs to a text file called ``smi_output.txt`` in your working directory. If you're on the right server, you should get a block of text containing the words "Quadro RTX 6000" somewhere in the middle when the file is opened with *nano* or *vim*.
+3. If ``~/envs/test_env`` isn't available as a *conda* environment, add it back using the steps above. Then, install ``matplotlib==3.7.5`` using *pip* and export the environment to a file called ``test_env_modified.yml``. Please also run the command ``chmod ugo+rw /home/ee230lnx04/a/shared-conda/pkgs/cache/*.info.json`` to prevent conflicts with other users.
+4. Put both ``smi_output.txt`` and ``test_env_modified.yml`` in this branch. Then, ``git add``, ``git commit``, and ``git push`` the files. Finally. PR/merge the result. Make sure to write descriptive commit messages at every step! Do **NOT** delete the old branch(es) after merging with main.
 
 Once you are ready to turn in this exercise, you should have a GitHub repo with 3 branches (``main``, ``new_feature``, ``new_feature_2``). ``main`` should contain your modified ``message.txt``, ``smi_output.txt``, and ``test_env_modified.yml``. Details on how to turn this in are TBD.
 
