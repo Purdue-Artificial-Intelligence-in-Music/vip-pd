@@ -180,6 +180,8 @@ md-gpu                   /home/ee230lnx04/a/shared-conda/envs/md-gpu
 
 If these environments do not show up, Teams DM Tim ASAP so we can sort this out.
 
+Before making any new environments, please run ``umask``. If the value is not ``022`` or ``0022``, please send the value to Tim over Teams DM and run ``umask 022`` to change it to the correct value.
+
 Since these environments are shared, we will not be creating shared environments for this tutorial. Instead, we will create a local environment and demo some things so you get an idea of how it works.
 
 Let's create a new *conda* environment using ``conda create``. Normally, we would use the ``--name`` option to simply create it in the default directory, but instead, we will use the ``--prefix`` option to specify a path for it. (When you create an environment in the default directory, you can simply type the name for the environment everywhere you would type the prefix, making things much simpler.)
